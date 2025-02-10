@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        li {
+            position: relative;
+        }
+
+        .dd:hover .drop-menu-area {
+            display: flex;
+        }
+
+        .drop-menu-area {
+            position: absolute;
+            top: 120px;
+            left: 0;
+            display: none;
+            width: 100vw;
+            height: 400px;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .drop-menu-area .child-menu-area {
+            max-width: 800px;
+            width: 100%;
+            height: 200px;
+            background: white;
+            border: 2px solid rgb(61, 61, 250);
+            border-radius: 8px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="wrapper">
+        <header class="header">
+            <ul>
+                <li><a href="" class="dd">How Eninrac works</a></li>
+                <li><a href="" class="dd">Contact</a>
+                    <div class="drop-menu-area">
+                        <div class="child-menu-area">Helllo</div>
+                    </div>
+                </li>
+                <li><a href="" class="dd">Services</a></li>
+            </ul>
+        </header>
+    </div>
+</body>
+
+</html>
