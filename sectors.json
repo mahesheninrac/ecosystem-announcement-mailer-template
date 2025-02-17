@@ -1,0 +1,64 @@
+{
+    "row": [
+        {
+            "link": "sector/automotive-and-assembly",
+            "image": "https://eninrac.com/assets/upload/assembly-bmw.jpg",
+            "title": "Automotive & Assembly"
+        },
+        {
+            "link": "sector/fmcg",
+            "image": "https://eninrac.com/assets/upload/fmcg.jpeg",
+            "title": "FMCG"
+        },
+        {
+            "link": "sector/healthcare-systems-and-equipment",
+            "image": "https://eninrac.com/assets/upload/healthcare.jpg",
+            "title": "Healthcare Systems & Equipment"
+        },
+        {
+            "link": "sector/renewable-energy-sources",
+            "image": "https://eninrac.com/assets/upload/RE.jpg",
+            "title": "Renewable Energy Sources"
+        },
+        {
+            "link": "sector/logistics-and-warehousing",
+            "image": "https://eninrac.com/assets/upload/1-283.jpg",
+            "title": "Logistics & Warehousing"
+        },
+        {
+            "link": "sector/metals-and-mining",
+            "image": "https://eninrac.com/assets/upload/Mining.jpg",
+            "title": "Metals & Mining"
+        },
+        {
+            "link": "sector/oil-and-gas",
+            "image": "https://eninrac.com/assets/upload/oil.png",
+            "title": "Oil & Gas"
+        },
+        {
+            "link": "sector/pharmaceutical",
+            "image": "https://eninrac.com/assets/upload/Pharma.jpg",
+            "title": "Pharmaceutical"
+        },
+        {
+            "link": "sector/power-and-utilities",
+            "image": "https://eninrac.com/assets/upload/power.jpg",
+            "title": "Power & Utilities"
+        },
+        {
+            "link": "sector/public-sector",
+            "image": "https://eninrac.com/assets/upload/Public_Sector.jpg",
+            "title": "Public Sector"
+        },
+        {
+            "link": "sector/chemical-and-petrochemicals",
+            "image": "https://eninrac.com/assets/upload/Chemical-petrochemical.jpg",
+            "title": "Chemical & Petrochemicals"
+        },
+        {
+            "link": "sector/capital-projects-and-infrastructure",
+            "image": "https://eninrac.com/assets/upload/Capital.jpg",
+            "title": "Capital Projects & Infrastructure"
+        }
+    ]
+}
